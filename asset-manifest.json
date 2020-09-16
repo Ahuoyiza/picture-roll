@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/picture-roll/static/css/main.75e8d466.chunk.css",
+    "main.js": "/picture-roll/static/js/main.f69015f9.chunk.js",
+    "main.js.map": "/picture-roll/static/js/main.f69015f9.chunk.js.map",
+    "runtime-main.js": "/picture-roll/static/js/runtime-main.7c8c227f.js",
+    "runtime-main.js.map": "/picture-roll/static/js/runtime-main.7c8c227f.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/picture-roll/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3c6df923.chunk.js": "/picture-roll/static/js/2.3c6df923.chunk.js",
+    "static/js/2.3c6df923.chunk.js.map": "/picture-roll/static/js/2.3c6df923.chunk.js.map",
+    "index.html": "/picture-roll/index.html",
+    "precache-manifest.51a9af0e1da218dd6736789b0e8c3666.js": "/picture-roll/precache-manifest.51a9af0e1da218dd6736789b0e8c3666.js",
+    "service-worker.js": "/picture-roll/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/picture-roll/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.75e8d466.chunk.css.map": "/picture-roll/static/css/main.75e8d466.chunk.css.map",
+    "static/js/2.3c6df923.chunk.js.LICENSE.txt": "/picture-roll/static/js/2.3c6df923.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c8c227f.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3c6df923.chunk.js",
+    "static/css/main.75e8d466.chunk.css",
+    "static/js/main.f69015f9.chunk.js"
+  ]
+}
